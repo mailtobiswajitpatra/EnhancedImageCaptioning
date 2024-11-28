@@ -1,0 +1,17 @@
+Flickr 30k and MSCOCO datasets for training, validation, testing purposes can be accessed from the below links 
+
+****Flickr 30k Dataset**** 
+Images: https://www.kaggle.com/datasets/nunenuh/flickr30k?select=images 
+Annotations: https://www.kaggle.com/datasets/nunenuh/flickr30k?select=captions.txt 
+Training, validation and testing images for Flickr 30k 
+https://github.com/BryanPlummer/flickr30k_entities/blob/master/train.txt 
+https://github.com/BryanPlummer/flickr30k_entities/blob/master/val.txt 
+https://github.com/BryanPlummer/flickr30k_entities/blob/master/test.txt 
+
+****MSCOCO 2017 Dataset**** 
+Images : http://images.cocodataset.org 
+Annotations : http://images.cocodataset.org/annotations/annotations_trainval2017.zip 
+Training, validation and testing images for MSCOCO 
+http://images.cocodataset.org/zips/train2017.zip 
+http://images.cocodataset.org/zips/val2017.zip 
+http://images.cocodataset.org/zips/test2017.zip

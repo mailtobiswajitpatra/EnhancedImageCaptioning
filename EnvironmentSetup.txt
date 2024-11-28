@@ -1,0 +1,9 @@
+****Installation of following packages is required to run the code****
+
+!pip install tensorflow==2.15.0
+!pip install gtts
+!pip install Keras-Preprocessing
+!pip install tensorflow_addons
+!pip install --quiet vit-keras
+!pip install vit-keras
+!pip install pycocoevalcap
